@@ -1,0 +1,10 @@
+{
+    "variants": {
+         "powered=false": {
+		 "model": "powerednetherrack:block/firestone_block"
+		},
+		"powered=true": {
+		"model": "powerednetherrack:block/firestone_block_activated"
+		}
+    }
+}
